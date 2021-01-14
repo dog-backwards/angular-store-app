@@ -1,21 +1,20 @@
 export const products = [
   {
-    name: 'Phone XL',
+    name: "La Sportiva Miura",
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: "Climbing shoes"
   },
   {
-    name: 'Phone Mini',
+    name: "80 meters dynamic rope",
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: "Climbing rope"
   },
   {
-    name: 'Phone Standard',
+    name: "Black Diamond ATC",
     price: 299,
-    description: ''
+    description: ""
   }
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
